@@ -4,6 +4,9 @@ REFUGIO DEL SOL
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1e0b312b-62ab-4291-a2e3-b7c4bd7e4dcd" />
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/748156e8-bdda-4c96-8ee6-03231d562e1d" />
+
+
 
 El proyecto consiste en desarrollar un sistema de gestión para el Resort Refugio del Sol en Cartagena, diseñado para facilitar la administración y visualización de la información clave del establecimiento. A través de una interfaz sencilla, intuitiva y amigable, el software permite consultar datos relevantes como el número total de clientes hospedados, el registro de mascotas, la disponibilidad de habitaciones, turismo y alimentación, así como el reporte financiero con ventas, costos y ganancias.
 
