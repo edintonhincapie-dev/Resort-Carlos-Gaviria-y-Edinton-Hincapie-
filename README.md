@@ -1,8 +1,14 @@
 REFUGIO DEL SOL 
 
+Logo
+
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/21c78993-bb9d-4730-a64d-aabb6931bdcd" />
 
+Lema
+
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1e0b312b-62ab-4291-a2e3-b7c4bd7e4dcd" />
+
+Layout
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/748156e8-bdda-4c96-8ee6-03231d562e1d" />
 
@@ -21,3 +27,5 @@ Responsabilidades: Edinton, mas enfocado investigativo
 Carlos: Mas enfocado en la  parte de programación 
 
 (Pero de manera general se planea ir a cargar iguales)
+
+-*/
