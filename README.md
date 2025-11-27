@@ -27,5 +27,3 @@ Responsabilidades: Edinton, mas enfocado investigativo
 Carlos: Mas enfocado en la  parte de programación 
 
 (Pero de manera general se planea ir a cargar iguales)
-
--*/
